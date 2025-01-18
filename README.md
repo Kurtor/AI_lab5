@@ -1,6 +1,6 @@
 
 # README
-
+### **Github地址：https://github.com/Kurtor/AI_lab5**
 本项目包含 **Lab 5** 实验的相关代码、数据和报告，旨在探索单模态与多模态模型在情感分类任务上的性能对比和融合效果。
 
 ---
